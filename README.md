@@ -58,6 +58,10 @@ This Student Management System is a Java-based application designed to manage ba
 
 ----------------------------------------------------------------------
 
+![456147823_1235831174124961_8800273417380934163_n](https://github.com/user-attachments/assets/cf521f53-ce22-49b7-aae0-916b2cb0129f)
+
+----------------------------------------------------------------------
+
 ## Future Enhancements
 1. GUI Integration: Create a graphical user interface using JavaFX to improve user experience.
 2. Database Integration: Implement a database (e.g., MySQL) to store student, teacher, and subject information persistently.
