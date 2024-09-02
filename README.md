@@ -32,7 +32,7 @@ This Student Management System is a Java-based application designed to manage ba
 
 
 - 📓 **Class Management**
- 	  - **View Subjects:** Displays a list of available subjects with detailed information such as the class code, class name, weekly schedule, daily schedule, and modality.
+    - **View Subjects:** Displays a list of available subjects with detailed information such as the class code, class name, weekly schedule, daily schedule, and modality.
     - **Add Classes:** Administrators can add new classes with unique class codes and schedules.
     - **Generate Unique Class Codes:** Ensures that existing and newly added classes have distinct identifiers.
 
@@ -48,12 +48,12 @@ This Student Management System is a Java-based application designed to manage ba
 
   
 - 👥 **Friend System for Teachers**
- 	  - **Send Friend Requests:** Teachers can connect with each other by sending and accepting friend requests.
+    - **Send Friend Requests:** Teachers can connect with each other by sending and accepting friend requests.
     - **View Friends and Requests:** Manage and view current friends and pending friend requests.
 
 
 - ❌ **Validation and Error Handling**
- 	  - **Password Validations:** Ensures strong passwords with digits, uppercase letters, and special symbols.
+    - **Password Validations:** Ensures strong passwords with digits, uppercase letters, and special symbols.
     - **Input Validation:** Validates dates, non-empty fields, and other user inputs to maintain data integrity.
 
 ----------------------------------------------------------------------
