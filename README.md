@@ -15,7 +15,7 @@
 ----------------------------------------------------------------------
 
 ## Overview
-This Student Management System is a Java-based application designed to manage basic student and teacher information, including accounts, subjects, and activities. The system uses HashMaps and Lists to manage data. It allows admin, students, and teachers to interact with various functionalities like logging in, viewing and adding subjects, accessing personal information, and adding fellow teachers. It implements simple authorization mechanisms for students, teachers, and administrators.
+This Student Management System is a Java-based application designed to manage basic student and teacher information, including accounts, subjects, and activities. The system uses HashMaps and Lists to manage data. It allows admin, students, and teachers to interact with various functionalities like logging in, viewing and adding subjects, accessing personal information, and connecting with fellow teachers. It implements simple authorization mechanisms for students, teachers, and administrators.
 
 ----------------------------------------------------------------------
 
@@ -56,6 +56,9 @@ This Student Management System is a Java-based application designed to manage ba
     - **Password Validations:** Ensures strong passwords with digits, uppercase letters, and special symbols.
     - **Input Validation:** Validates dates, non-empty fields, and other user inputs to maintain data integrity.
 
+- 🖥️ **User-friendly GUI**
+    - Consists of a user-friendly interface that utilizes different elements of Java Swing such as the ComboBox, Buttons, TextAreas, and PasswordFields.
+ 
 ----------------------------------------------------------------------
 
 ![456147823_1235831174124961_8800273417380934163_n](https://github.com/user-attachments/assets/cf521f53-ce22-49b7-aae0-916b2cb0129f)
