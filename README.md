@@ -6,9 +6,11 @@
 ![GitHub License](https://img.shields.io/github/license/joshnealcrisostomo/freshman-projects)
 
 ## Table of Contents
-1. [Overview](overview)
-2. [Features](features)
-3. 
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Future Enhancements](#future-enhancements)
+4. [Technologies Used](#technologies-used)
+5. [Getting Started](#getting-started)
 
 ----------------------------------------------------------------------
 
