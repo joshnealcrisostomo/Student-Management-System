@@ -1,0 +1,8 @@
+REMINDER: 
+  - Before running the program, make sure that this "Resource" folder is set as a "Test Resources Root"
+
+HOW TO MARK DIRECTORY AS A "TEST RESOURCES ROOT":
+  1. Once you clone the repository, right-click on the "Resources" folder
+  2. Look at the bottom most option labeled as "Mark Directory as"
+  3. Click the option and you will be given 5 other options
+  4. Click the middle one called "Test Resources Root"
