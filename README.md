@@ -25,26 +25,32 @@ This Student Management System is a Java-based application designed to manage ba
     - **Teacher Login:** Teachers can log in using their unique usernames and passwords.
     - **Student Login:** Students can log in using their unique ID numbers and passwords.
 
+
 - 👤**Account Creation**
     - **Teacher Account Creation:** Teachers can create an account by providing basic information, a unique username, and a password.
     - **Student Account Creation:** Students can create an account by providing basic information, a unique ID number, and a password.
+
 
 - 📓 **Class Management**
  	  - **View Subjects:** Displays a list of available subjects with detailed information such as the class code, class name, weekly schedule, daily schedule, and modality.
     - **Add Classes:** Administrators can add new classes with unique class codes and schedules.
     - **Generate Unique Class Codes:** Ensures that existing and newly added classes have distinct identifiers.
+
  
  - 🔐 **User Management** 
  	  - **Search Functionality:** Find teachers or students by username, ID number, or full name.
     - **Profile Management:** Users can update their personal information, including name, gender, year level, and professor type.
 
+
  - 🕒 **Activity Logging** 
  	  - **Comprehensive Logs:** Track all significant actions within the system for accountability and monitoring.
     - **View Logs:** Administrators can view a detailed activity log to monitor system usage (including the activity's date and time).
+
   
 - 👥 **Friend System for Teachers**
  	  - **Send Friend Requests:** Teachers can connect with each other by sending and accepting friend requests.
     - **View Friends and Requests:** Manage and view current friends and pending friend requests.
+
 
 - ❌ **Validation and Error Handling**
  	  - **Password Validations:** Ensures strong passwords with digits, uppercase letters, and special symbols.
