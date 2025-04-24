@@ -1,9 +1,9 @@
 # STUDENT MANAGEMENT SYSTEM
 
-![GitHub top language](https://img.shields.io/github/languages/top/joshnealcrisostomo/freshman-projects)
-![GitHub repo size](https://img.shields.io/github/repo-size/joshnealcrisostomo/freshman-projects)
-![GitHub last commit](https://img.shields.io/github/last-commit/joshnealcrisostomo/freshman-projects)
-![GitHub License](https://img.shields.io/github/license/joshnealcrisostomo/freshman-projects)
+![GitHub top language](https://img.shields.io/github/languages/top/joshnealcrisostomo/student-management-system)
+![GitHub repo size](https://img.shields.io/github/repo-size/joshnealcrisostomo/student-management-system)
+![GitHub last commit](https://img.shields.io/github/last-commit/joshnealcrisostomo/student-management-system)
+![GitHub License](https://img.shields.io/github/license/joshnealcrisostomo/student-management-system)
 
 ## Table of Contents
 1. [Overview](#overview)
